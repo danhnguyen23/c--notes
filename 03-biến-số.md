@@ -48,6 +48,20 @@ ten = "Nguyen Thanh Danh"
   
 ---
 
+**Nhập giá trị từ bàn phím cho biến dùng `cin`**
+
+Thay vì gán giá trị cho biến bằng cách `x = 1`, ta có thể nhập giá trị từ bàn phím bằng cách:
+
+```C++
+cin >> x;
+```
+
+Khi chương trình gặp câu lệnh này, nó sẽ dừng lại để chờ chủng ta nhập vào một giá trị nào đó. 
+Giá trị này sẽ được lưu vào biến x, và sau đó chương trình tiếp tục chạy như bình thường.
+
+---
+
 **Bài tập**:
 
-3.1. [Hãy lưu tên của bạn vào một biến và in ra biến đó.](https://repl.it/@VeirPlays/31)
+- 3.1. [Hãy lưu tên của bạn vào một biến và in ra biến đó.](https://repl.it/@VeirPlays/31)
+- 3.2. [Hãy nhập tên của bạn vào từ bàn phím và in ra tên đó.](https://repl.it/@VeirPlays/32)
