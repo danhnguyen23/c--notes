@@ -45,3 +45,8 @@ using namespace std;
 ```
 
 Lấy ví dụ, [đây](https://repl.it/@VeirPlays/In-ten-ra-man-hinh) là một chương trình in tên ra màn hình.
+
+**Bài tập**:
+
+- 2.1. In tên "Nguyễn Thành Danh" ra màn hình.
+- 2.2. In số 1 ra màn hình.
