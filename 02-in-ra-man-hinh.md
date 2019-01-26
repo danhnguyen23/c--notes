@@ -58,7 +58,7 @@ Kí tự xuống dòng là `\n`.
 - [2.2. In số 1 ra màn hình.](https://repl.it/@VeirPlays/22)
 - [2.3. In chữ D ra màn hình.](https://repl.it/@VeirPlays/23)
 - [2.4. In số thập phân 4.7 ra màn hình.](https://repl.it/@VeirPlays/24)
-- 2.5. In nội dung sau ra màn hình:
+- [2.5. In nội dung sau ra màn hình:](https://repl.it/@VeirPlays/25)
   ```
   Thành
   Danh
