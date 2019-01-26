@@ -48,5 +48,7 @@ Lấy ví dụ, [đây](https://repl.it/@VeirPlays/In-ten-ra-man-hinh) là một
 
 **Bài tập**:
 
-- 2.1. In tên "Nguyễn Thành Danh" ra màn hình.
-- 2.2. In số 1 ra màn hình.
+- [2.1. In tên "Nguyễn Thành Danh" ra màn hình.](https://repl.it/@VeirPlays/DefinitiveQuarterlyAddons)
+- [2.2. In số 1 ra màn hình.](https://repl.it/@VeirPlays/22)
+- [2.3. In chữ D ra màn hình.](https://repl.it/@VeirPlays/23)
+- [2.4. In số thập phân 4.7 ra màn hình.](https://repl.it/@VeirPlays/24)
