@@ -50,4 +50,4 @@ ten = "Nguyen Thanh Danh"
 
 **Bài tập**:
 
-3.1. Hãy lưu tên của bạn vào một biến và in ra biến đó.
+3.1. [Hãy lưu tên của bạn vào một biến và in ra biến đó.](https://repl.it/@VeirPlays/31)
