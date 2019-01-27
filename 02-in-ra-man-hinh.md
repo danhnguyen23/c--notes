@@ -52,6 +52,19 @@ Lấy ví dụ, [đây](https://repl.it/@VeirPlays/In-ten-ra-man-hinh) là một
 
 Kí tự xuống dòng là `\n`.
 
+---
+
+**Làm tròn số thập phân trong C++**
+
+Ví dụ muốn in ra số f với x chữ số thập phân, ta sử dụng:
+
+```C++
+// Nhớ có #include <iomanip>
+cout << fixed << setprecision(x) << f;
+```
+
+---
+
 **Bài tập**:
 
 - [2.1. In tên "Nguyễn Thành Danh" ra màn hình.](https://repl.it/@VeirPlays/DefinitiveQuarterlyAddons)
@@ -63,3 +76,4 @@ Kí tự xuống dòng là `\n`.
   Thành
   Danh
   ```
+
