@@ -55,4 +55,41 @@ if (BIỂU_THỨC_ĐIỀU_KIỆN) {
     // Các câu lệnh được thực thi
     // khi BIỂU_THỨC_ĐIỀU_KIỆN là sai
 }
+
+// Cú pháp 3
+if (DK1) {
+    // Các câu lệnh được thực thi
+    // khi DK1 là đúng
+} else if (DK2) {
+    // Các câu lệnh được thực thi
+    // khi DK1 sai và DK2 đúng
+} else if (DK3) {
+    // Các câu lệnh được thực thi
+    // khi DK1 sai, DK2 sai và DK3 đúng
+} else if ...
+else {
+     // Các câu lệnh được thực thi
+     // khi tất cả các điều kiện trên đều sai
+}
 ```
+
+---
+
+**Các toán tử logic trong C++**
+
+Toán tử logic trong C++ bao gồm `&&` (và), `||` (hoặc) và `!`. `&&` và `||` dùng để kết hợp nhiều biểu thức điều kiện lại với nhau.
+
+Bảng chân trị cho `A && B` (đúng khi cả A và B đều đúng, sai trong các trường hợp còn lại:
+
+|A|B|A && B|
+|-|-|-|
+|true|true|true|
+|true|false|false|
+|false|true|false|
+|false|false|false|
+
+Ví dụ:
+
+```
+(2 > 1) && (3 > 1) - kết quả là true
+(2 > 1) && (3 < 1) - kết quả là false
