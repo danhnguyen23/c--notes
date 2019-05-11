@@ -21,7 +21,9 @@ int main() {
 
 **Một số kiểu dữ liệu cơ bản trong C++**:
 
-- Số nguyên (integer): 0, 1 ..
+- Số nguyên (integer): 0, 1 .. Có nhiều kiểu số nguyên trong C++:
+  - `int`: số nguyên từ -2 tỉ đến 2 tỉ.
+  - `long long int`: số nguyên từ -9,223,372,036,854,775,807 đến 9,223,372,036,854,775,807.
 - Số thập phân (float): 0.5, 1.24  ..
 - Kiểu kí tự (character), có thể hiểu là một chữ: 'a', '$' ..
 - Kiểu chuỗi (string), có thể hiểu là một câu: "Nguyen Thanh Danh đang học C++."
